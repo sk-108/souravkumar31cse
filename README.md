@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/souravkumar31cse/Profile/blob/main/Sourav%20Kumar!.png)](https://souravkumar31cse.github.io)
+[![MasterHead](https://github.com/souravkumar31cse/Profile/blob/main/Sourav%20Kumar!%20(1).png)](https://souravkumar31cse.github.io)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravkumar31cse&label=Profile%20views&color=129e00&style=plastic" alt="souravkumar31cse" /> </p>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/77598/screenshots/16399264/media/d86ceb1ad552398787fb76f343080aa6.gif">
