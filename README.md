@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/77598/screenshots/16399264/media/d86ceb1ad552398787fb76f343080aa6.gif">
 
 <h1 align="center">Hare Krishna 👋, I'm Sourav Kumar</h1>
-<h3 align="center">A Enthusiasts coder from Bharat</h3>
+<h3 align="center">A Enthusiast coder from Bharat</h3>
 
 - 🌱 I’m currently learning **Nodejs**
 
