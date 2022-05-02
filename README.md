@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sk2000cs@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3F6gZd0](https://bit.ly/3F6gZd0)
+<!-- - 📄 Know about my experiences [https://bit.ly/3F6gZd0](https://bit.ly/3F6gZd0) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
